@@ -5,4 +5,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![alt text](https://freedesignfile.com/upload/2017/08/spaceship-icon-vector.png) 
 ### Demo 
-[my profile card](https://github.com/Mehrgan-trk/profile-card.git)
+[my profile card](https://github.com/Mehrgan-trk.github.io/profile-card)
